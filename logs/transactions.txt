@@ -1,0 +1,8 @@
+# Format: TYPE|DESCRIPTION|AMOUNT
+# TYPE: INC (Income) or EXP (Expense)
+# AMOUNT: Positive decimal number
+
+INC|def|3000.00
+EXP|abc|-1000.00
+INC|ghi|500.00
+INC|hello|100.00
